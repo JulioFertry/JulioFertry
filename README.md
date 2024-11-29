@@ -18,7 +18,7 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JulioFertry&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JulioFertry&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JulioFertry&theme=darcula&hide_border=false&include_all_commits=false&count_private=true)<br/>
